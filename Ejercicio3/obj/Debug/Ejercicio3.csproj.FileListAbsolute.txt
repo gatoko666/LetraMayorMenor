@@ -1,0 +1,7 @@
+c:\users\gatoko\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojResolveAssemblyReference.cache
+c:\users\gatoko\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+c:\users\gatoko\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+c:\users\gatoko\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+c:\users\gatoko\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+c:\users\gatoko\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+c:\users\gatoko\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
